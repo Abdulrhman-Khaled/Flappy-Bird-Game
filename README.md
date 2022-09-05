@@ -33,6 +33,20 @@ and this make our equation:
 ### Splash screen
 ![ab56496c-886d-4caf-a2ce-7e508877d91a](https://user-images.githubusercontent.com/58918060/188489012-8c1235d8-1494-4188-90af-0d716dad4d6a.jpg)
 
+### Game Play
+![2fd1b0c5-0f0b-4078-acdc-aeed8870cc84](https://user-images.githubusercontent.com/58918060/188489033-ff2ad24e-45bd-4e79-81d4-f8c79db3a543.jpg)
+![322c1054-6833-4a16-bb90-759f9d42846a](https://user-images.githubusercontent.com/58918060/188489040-47803f21-b7ab-4b02-a15f-cac531f6f2b0.jpg)
+
+### Video of Game
+https://user-images.githubusercontent.com/58918060/188489098-4bd068cb-2fda-480d-9d8e-e6eb341cd09d.mp4
+
+### GIFs
+![bird](https://user-images.githubusercontent.com/58918060/188489160-2ae0697a-d9aa-4a6b-9509-c004991fb617.gif)
+![gameover](https://user-images.githubusercontent.com/58918060/188489164-0eb2db13-d3c2-45da-a9da-a316b3562b97.gif)
+
+# Download Game
+### You can try the game by download the apk from **[Here](https://www.facebook.com/abdalrahman.khaled.54/)**
+
 # License
 
 MIT License
@@ -56,18 +70,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-### Game Play
-![2fd1b0c5-0f0b-4078-acdc-aeed8870cc84](https://user-images.githubusercontent.com/58918060/188489033-ff2ad24e-45bd-4e79-81d4-f8c79db3a543.jpg)
-![322c1054-6833-4a16-bb90-759f9d42846a](https://user-images.githubusercontent.com/58918060/188489040-47803f21-b7ab-4b02-a15f-cac531f6f2b0.jpg)
-
-### Video of Game
-https://user-images.githubusercontent.com/58918060/188489098-4bd068cb-2fda-480d-9d8e-e6eb341cd09d.mp4
-
-### GIFs
-![bird](https://user-images.githubusercontent.com/58918060/188489160-2ae0697a-d9aa-4a6b-9509-c004991fb617.gif)
-![gameover](https://user-images.githubusercontent.com/58918060/188489164-0eb2db13-d3c2-45da-a9da-a316b3562b97.gif)
 
 
 
