@@ -1,4 +1,5 @@
-# floppy_bird
+# Flappy Bird Game
+### It's a Cloning of Flappy Bird game using Flutter (Bloc State Management Library) with egyptian 🇪🇬 touch.
 
 A new Flutter project.
 
