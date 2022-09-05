@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/58918060/188489098-4bd068cb-2fda-480d-
 ![gameover](https://user-images.githubusercontent.com/58918060/188489164-0eb2db13-d3c2-45da-a9da-a316b3562b97.gif)
 
 # Download Game
-### You can try the game by download the apk from **[Here](https://www.facebook.com/abdalrahman.khaled.54/)**
+### You can try the game by download the apk from **[Here](https://www.mediafire.com/file/lflabr2soqxg8iq/FlappyBird_BodyKh_2022.apk/file)**
 
 # License
 
