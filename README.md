@@ -4,6 +4,7 @@
 # Game Idea
 ### The game is based on an equation linking gravity, acceleration and time, the equation can be analyzed as follows:
 ![image](https://user-images.githubusercontent.com/58918060/188485587-1a7a15ab-7c8b-412f-b816-87c4f6afebef.png)
+
 Everything depends on gravity as well as jumping. As we can see in the graph, there is a relationship between height(y) and time(t), and that represents a jump, but of course with an external influence, which is gravity(g), taking into account the mass of the body(m).
 **This make:**
 **y '' = -m.g**
